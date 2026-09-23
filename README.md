@@ -19,6 +19,6 @@ A sleek dark-theme calculator with a live answer display — calculations evalua
 - HTML, CSS, vanilla JavaScript
 - No dependencies — runs entirely in the browser
 
-## Credits
+## Author
 
-Original project by Shubham (tutorial project) — published here with a cleaned-up title and this README.
+Created by **Erion Nezha**.
